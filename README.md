@@ -14,5 +14,5 @@ The objectif of this project is to provide examples that combine these useful to
 
 [Dash by plotly](https://plot.ly/dash/)
 
-[Flask]（http://flask.palletsprojects.com/）
+[Flask](http://flask.palletsprojects.com/)
 
