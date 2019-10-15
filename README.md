@@ -1,4 +1,4 @@
-# streamlit_plotly_flask
+# streamlit_dash_flask
 
 [Streamlit](https://streamlit.io/) is a web application framework launched in October 2019 that allows machine learning developers to easily build up frond end tools, with purely Python code, for their projects.
 
